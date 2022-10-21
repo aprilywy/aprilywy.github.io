@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on April&#39;s Blog</title>
+    <title>Categories on April&#39;s blog</title>
     <link>https://aprilyyw.github.io/categories/</link>
-    <description>Recent content in Categories on April&#39;s Blog</description>
+    <description>Recent content in Categories on April&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 20 Oct 2022 16:30:47 +0800</lastBuildDate><atom:link href="https://aprilyyw.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aprilyyw.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Android And Gaming</title>
-      <link>https://aprilyyw.github.io/categories/android-and-gaming/</link>
-      <pubDate>Thu, 20 Oct 2022 16:30:47 +0800</pubDate>
+      <title>syntax</title>
+      <link>https://aprilyyw.github.io/categories/syntax/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/categories/android-and-gaming/</guid>
-      <description></description>
+      <guid>https://aprilyyw.github.io/categories/syntax/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://aprilyyw.github.io/categories/themes/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aprilyyw.github.io/categories/themes/</guid>
+      
+        <description></description>
+      
     </item>
     
   </channel>

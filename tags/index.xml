@@ -1,55 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on April&#39;s Blog</title>
+    <title>Tags on April&#39;s blog</title>
     <link>https://aprilyyw.github.io/tags/</link>
-    <description>Recent content in Tags on April&#39;s Blog</description>
+    <description>Recent content in Tags on April&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 20 Oct 2022 16:30:47 +0800</lastBuildDate><atom:link href="https://aprilyyw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aprilyyw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Game</title>
-      <link>https://aprilyyw.github.io/tags/game/</link>
-      <pubDate>Thu, 20 Oct 2022 16:30:47 +0800</pubDate>
+      <title>css</title>
+      <link>https://aprilyyw.github.io/tags/css/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/tags/game/</guid>
-      <description></description>
+      <guid>https://aprilyyw.github.io/tags/css/</guid>
+      
+        <description></description>
+      
     </item>
     
     <item>
-      <title>New</title>
-      <link>https://aprilyyw.github.io/tags/new/</link>
-      <pubDate>Thu, 20 Oct 2022 16:30:47 +0800</pubDate>
+      <title>html</title>
+      <link>https://aprilyyw.github.io/tags/html/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/tags/new/</guid>
-      <description></description>
+      <guid>https://aprilyyw.github.io/tags/html/</guid>
+      
+        <description></description>
+      
     </item>
     
     <item>
-      <title>Photos</title>
-      <link>https://aprilyyw.github.io/tags/photos/</link>
-      <pubDate>Thu, 20 Oct 2022 16:30:47 +0800</pubDate>
+      <title>markdown</title>
+      <link>https://aprilyyw.github.io/tags/markdown/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/tags/photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://aprilyyw.github.io/tags/python/</link>
-      <pubDate>Thu, 20 Oct 2022 16:30:47 +0800</pubDate>
+      <guid>https://aprilyyw.github.io/tags/markdown/</guid>
       
-      <guid>https://aprilyyw.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>React</title>
-      <link>https://aprilyyw.github.io/tags/react/</link>
-      <pubDate>Thu, 20 Oct 2022 16:30:47 +0800</pubDate>
+        <description></description>
       
-      <guid>https://aprilyyw.github.io/tags/react/</guid>
-      <description></description>
     </item>
     
   </channel>
