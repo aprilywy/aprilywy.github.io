@@ -6,15 +6,15 @@
     <description>Recent content on April&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aprilyyw.github.io/ar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aprilyyw.github.io/ar/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown語法範本</title>
-      <link>https://aprilyyw.github.io/ar/zh-tw/post/markdown-syntax/</link>
-      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <title>GITHUB個人網站創立</title>
+      <link>https://aprilyyw.github.io/ar/zh-tw/post/github-blog-first-setting/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/ar/zh-tw/post/markdown-syntax/</guid>
+      <guid>https://aprilyyw.github.io/ar/zh-tw/post/github-blog-first-setting/</guid>
       
-        <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+        <description>第一篇文章慶祝blog建立完成&lt;3</description>
       
     </item>
     
@@ -31,10 +31,10 @@
     
     <item>
       <title>Certifications</title>
-      <link>https://aprilyyw.github.io/ar/zh-tw/certifications/</link>
+      <link>https://aprilyyw.github.io/ar/zh-tw/portfolio/certifications/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/ar/zh-tw/certifications/</guid>
+      <guid>https://aprilyyw.github.io/ar/zh-tw/portfolio/certifications/</guid>
       
         <description>Hugo Certifications</description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title></title>
-      <link>https://aprilyyw.github.io/ar/zh-tw/archives/</link>
+      <link>https://aprilyyw.github.io/ar/zh-tw/portfolio/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/ar/zh-tw/archives/</guid>
+      <guid>https://aprilyyw.github.io/ar/zh-tw/portfolio/archives/</guid>
       
         <description></description>
       
@@ -96,11 +96,11 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://aprilyyw.github.io/ar/zh-tw/about/</link>
+      <title>Certifications</title>
+      <link>https://aprilyyw.github.io/ar/zh-tw/portfolio/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/ar/zh-tw/about/</guid>
+      <guid>https://aprilyyw.github.io/ar/zh-tw/portfolio/about/</guid>
       
         <description>Hugo, the world&#39;s fastest framework for building websites</description>
       

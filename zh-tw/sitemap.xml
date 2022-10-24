@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aprilyyw.github.io/</loc>
-    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://aprilyyw.github.io/categories/</loc>
-    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -28,79 +28,40 @@
                 href="https://aprilyyw.github.io/categories/"
                 />
   </url><url>
-    <loc>https://aprilyyw.github.io/tags/css/</loc>
-    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
+    <loc>https://aprilyyw.github.io/post/github-blog-first-setting/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aprilyyw.github.io/tags/life/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://aprilyyw.github.io/ar/tags/css/"
+                href="https://aprilyyw.github.io/ar/tags/life/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://aprilyyw.github.io/tags/css/"
+                href="https://aprilyyw.github.io/tags/life/"
                 />
   </url><url>
-    <loc>https://aprilyyw.github.io/tags/html/</loc>
-    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
+    <loc>https://aprilyyw.github.io/categories/other/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://aprilyyw.github.io/ar/tags/html/"
+                href="https://aprilyyw.github.io/ar/categories/other/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://aprilyyw.github.io/tags/html/"
+                href="https://aprilyyw.github.io/categories/other/"
                 />
-  </url><url>
-    <loc>https://aprilyyw.github.io/tags/markdown/</loc>
-    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://aprilyyw.github.io/ar/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://aprilyyw.github.io/tags/markdown/"
-                />
-  </url><url>
-    <loc>https://aprilyyw.github.io/post/markdown-syntax/</loc>
-    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aprilyyw.github.io/post/</loc>
-    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aprilyyw.github.io/series/</loc>
-    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://aprilyyw.github.io/ar/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://aprilyyw.github.io/series/"
-                />
-  </url><url>
-    <loc>https://aprilyyw.github.io/categories/syntax/</loc>
-    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://aprilyyw.github.io/ar/categories/syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://aprilyyw.github.io/categories/syntax/"
-                />
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aprilyyw.github.io/tags/</loc>
-    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -112,50 +73,37 @@
                 href="https://aprilyyw.github.io/tags/"
                 />
   </url><url>
-    <loc>https://aprilyyw.github.io/categories/themes/</loc>
-    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://aprilyyw.github.io/ar/categories/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://aprilyyw.github.io/categories/themes/"
-                />
-  </url><url>
-    <loc>https://aprilyyw.github.io/series/themes-guide/</loc>
-    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://aprilyyw.github.io/ar/series/themes-guide/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://aprilyyw.github.io/series/themes-guide/"
-                />
-  </url><url>
     <loc>https://aprilyyw.github.io/awards/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aprilyyw.github.io/certifications/</loc>
+    <loc>https://aprilyyw.github.io/portfolio/certifications/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aprilyyw.github.io/archives/</loc>
+    <loc>https://aprilyyw.github.io/portfolio/</loc>
+    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aprilyyw.github.io/portfolio/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aprilyyw.github.io/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aprilyyw.github.io/about/</loc>
+    <loc>https://aprilyyw.github.io/portfolio/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aprilyyw.github.io/imprint/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://aprilyyw.github.io/portfolio/</loc>
+    <loc>https://aprilyyw.github.io/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://aprilyyw.github.io/ar/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://aprilyyw.github.io/series/"
+                />
   </url>
 </urlset>
