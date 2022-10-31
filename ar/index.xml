@@ -6,13 +6,24 @@
     <description>Recent content on April&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aprilyyw.github.io/ar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aprilyyw.github.io/ar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo的anatole模板修改</title>
+      <link>https://aprilyyw.github.io/ar/zh-tw/post/anatole-theme-setting/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aprilyyw.github.io/ar/zh-tw/post/anatole-theme-setting/</guid>
+      
+        <description>在原本的模板上在側邊欄新增了「分類」和「標籤」區塊，以方便大家對於網站文章分類和標籤一目瞭然</description>
+      
+    </item>
+    
     <item>
       <title>GITHUB個人網站創立</title>
-      <link>https://aprilyyw.github.io/ar/zh-tw/post/github-blog-first-setting/</link>
+      <link>https://aprilyyw.github.io/ar/zh-tw/post/github-blog-helloworld/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/ar/zh-tw/post/github-blog-first-setting/</guid>
+      <guid>https://aprilyyw.github.io/ar/zh-tw/post/github-blog-helloworld/</guid>
       
         <description>第一篇文章慶祝blog建立完成&lt;3</description>
       

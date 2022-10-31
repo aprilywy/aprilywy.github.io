@@ -5,6 +5,18 @@
     <link>https://aprilyyw.github.io/series/</link>
     <description>Recent content in Series on April&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language><atom:link href="https://aprilyyw.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aprilyyw.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>github-blog</title>
+      <link>https://aprilyyw.github.io/series/github-blog/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://aprilyyw.github.io/series/github-blog/</guid>
+      
+        <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

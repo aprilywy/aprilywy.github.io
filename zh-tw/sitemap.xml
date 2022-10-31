@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aprilyyw.github.io/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -15,8 +15,21 @@
                 href="https://aprilyyw.github.io/"
                 />
   </url><url>
+    <loc>https://aprilyyw.github.io/tags/blog/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://aprilyyw.github.io/ar/tags/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://aprilyyw.github.io/tags/blog/"
+                />
+  </url><url>
     <loc>https://aprilyyw.github.io/categories/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -28,24 +41,24 @@
                 href="https://aprilyyw.github.io/categories/"
                 />
   </url><url>
-    <loc>https://aprilyyw.github.io/post/github-blog-first-setting/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aprilyyw.github.io/tags/life/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <loc>https://aprilyyw.github.io/series/github-blog/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://aprilyyw.github.io/ar/tags/life/"
+                href="https://aprilyyw.github.io/ar/series/github-blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://aprilyyw.github.io/tags/life/"
+                href="https://aprilyyw.github.io/series/github-blog/"
                 />
   </url><url>
+    <loc>https://aprilyyw.github.io/post/anatole-theme-setting/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aprilyyw.github.io/categories/other/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -58,10 +71,23 @@
                 />
   </url><url>
     <loc>https://aprilyyw.github.io/post/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aprilyyw.github.io/series/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://aprilyyw.github.io/ar/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://aprilyyw.github.io/series/"
+                />
   </url><url>
     <loc>https://aprilyyw.github.io/tags/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
@@ -72,6 +98,9 @@
                 hreflang="zh-tw"
                 href="https://aprilyyw.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://aprilyyw.github.io/post/github-blog-helloworld/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aprilyyw.github.io/awards/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
@@ -93,17 +122,5 @@
   </url><url>
     <loc>https://aprilyyw.github.io/imprint/</loc>
     <priority>0</priority>
-  </url><url>
-    <loc>https://aprilyyw.github.io/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://aprilyyw.github.io/ar/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://aprilyyw.github.io/series/"
-                />
   </url>
 </urlset>

@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aprilyyw.github.io/ar/zh-tw/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aprilyyw.github.io/ar/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -18,8 +18,21 @@
                 href="https://aprilyyw.github.io/ar/"
                 />
   </url><url>
+    <loc>https://aprilyyw.github.io/ar/tags/blog/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://aprilyyw.github.io/tags/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://aprilyyw.github.io/ar/tags/blog/"
+                />
+  </url><url>
     <loc>https://aprilyyw.github.io/ar/categories/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -31,24 +44,24 @@
                 href="https://aprilyyw.github.io/ar/categories/"
                 />
   </url><url>
-    <loc>https://aprilyyw.github.io/ar/zh-tw/post/github-blog-first-setting/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aprilyyw.github.io/ar/tags/life/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <loc>https://aprilyyw.github.io/ar/series/github-blog/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://aprilyyw.github.io/tags/life/"
+                href="https://aprilyyw.github.io/series/github-blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://aprilyyw.github.io/ar/tags/life/"
+                href="https://aprilyyw.github.io/ar/series/github-blog/"
                 />
   </url><url>
+    <loc>https://aprilyyw.github.io/ar/zh-tw/post/anatole-theme-setting/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aprilyyw.github.io/ar/categories/other/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -60,8 +73,21 @@
                 href="https://aprilyyw.github.io/ar/categories/other/"
                 />
   </url><url>
+    <loc>https://aprilyyw.github.io/ar/series/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://aprilyyw.github.io/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://aprilyyw.github.io/ar/series/"
+                />
+  </url><url>
     <loc>https://aprilyyw.github.io/ar/tags/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -72,6 +98,9 @@
                 hreflang="ar"
                 href="https://aprilyyw.github.io/ar/tags/"
                 />
+  </url><url>
+    <loc>https://aprilyyw.github.io/ar/zh-tw/post/github-blog-helloworld/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aprilyyw.github.io/ar/zh-tw/awards/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
@@ -115,17 +144,5 @@
     <loc>https://aprilyyw.github.io/ar/zh-tw/imprint/</loc>
   </url><url>
     <loc>https://aprilyyw.github.io/ar/tags/index/</loc>
-  </url><url>
-    <loc>https://aprilyyw.github.io/ar/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://aprilyyw.github.io/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://aprilyyw.github.io/ar/series/"
-                />
   </url>
 </urlset>

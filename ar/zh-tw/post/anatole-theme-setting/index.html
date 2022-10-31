@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html
+  dir="ltr"
+  lang="ar"
+  data-theme=""
+  class="html"
+><head>
+  <title>
+    
+      
+        Hugo的anatole模板修改 |
+
+      April
+
+  </title>
+
+  
+  <meta charset="utf-8" /><meta name="generator" content="Hugo 0.104.3" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="author" content="April" />
+  <meta
+    name="description"
+    content="在原本的模板上在側邊欄新增了「分類」和「標籤」區塊，以方便大家對於網站文章分類和標籤一目瞭然"
+  />
+  
+  
+    
+    
+    <link
+      rel="stylesheet"
+      href="/scss/main.min.b2e0cb07595e3519ab1193bb421914e06c0e26b0cc561fef23b3c6131d4d2ffa.css"
+      integrity="sha256-suDLB1leNRmrEZO7QhkU4GwOJrDMVh/vI7PGEx1NL/o="
+      crossorigin="anonymous"
+      type="text/css"
+    />
+
+  
+
+  
+  <link
+    rel="stylesheet"
+    href="/css/markupHighlight.min.31b0a1f317f55c529a460897848c97436bb138b19c399b37de70d463a8bf6ed5.css"
+    integrity="sha256-MbCh8xf1XFKaRgiXhIyXQ2uxOLGcOZs33nDUY6i/btU="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/fontawesome.min.7d272de35b410fb165377550cdf9c4d3a80fbbcc961e111914e4d5c0eaf5729f.css"
+    integrity="sha256-fSct41tBD7FlN3VQzfnE06gPu8yWHhEZFOTVwOr1cp8="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/solid.min.55d8333481b07a08e07cf6f37319753a2b47e99f4c395394c5747b48b495aa9b.css"
+    integrity="sha256-VdgzNIGwegjgfPbzcxl1OitH6Z9MOVOUxXR7SLSVqps="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/regular.min.a7448d02590b43449364b6b5922ed9af5410abb4de4238412a830316dedb850b.css"
+    integrity="sha256-p0SNAlkLQ0STZLa1ki7Zr1QQq7TeQjhBKoMDFt7bhQs="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/brands.min.9ed75a5d670c953fe4df935937674b4646f92674367e9e66eb995bb04e821647.css"
+    integrity="sha256-ntdaXWcMlT/k35NZN2dLRkb5JnQ2fp5m65lbsE6CFkc="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link rel="shortcut icon" href="/faviconfavicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/faviconapple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/faviconfavicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/faviconfavicon-16x16.png" />
+
+  <link rel="canonical" href="https://aprilyyw.github.io/ar/zh-tw/post/anatole-theme-setting/" />
+
+  
+  
+  
+  
+  <script
+    type="text/javascript"
+    src="/js/anatole-header.min.f9132794301a01ff16550ed66763482bd848f62243d278f5e550229a158bfd32.js"
+    integrity="sha256-&#43;RMnlDAaAf8WVQ7WZ2NIK9hI9iJD0nj15VAimhWL/TI="
+    crossorigin="anonymous"
+  ></script>
+
+  
+    
+    
+    <script
+      type="text/javascript"
+      src="/js/anatole-theme-switcher.min.738c0e3a493854876aeab9e2316fd43f1936aeeac4cc6b3e60bb26456dba72ad.js"
+      integrity="sha256-c4wOOkk4VIdq6rniMW/UPxk2rurEzGs&#43;YLsmRW26cq0="
+      crossorigin="anonymous"
+    ></script>
+
+  
+
+  
+
+
+  
+  <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://aprilyyw.github.io/images/site-feature-image.png"/>
+
+<meta name="twitter:title" content="Hugo的anatole模板修改"/>
+<meta name="twitter:description" content="在原本的模板上在側邊欄新增了「分類」和「標籤」區塊，以方便大家對於網站文章分類和標籤一目瞭然"/>
+
+
+
+  
+  <meta property="og:title" content="Hugo的anatole模板修改" />
+<meta property="og:description" content="在原本的模板上在側邊欄新增了「分類」和「標籤」區塊，以方便大家對於網站文章分類和標籤一目瞭然" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://aprilyyw.github.io/ar/zh-tw/post/anatole-theme-setting/" /><meta property="og:image" content="https://aprilyyw.github.io/images/site-feature-image.png"/><meta property="article:section" content="zh-tw" />
+<meta property="article:published_time" content="2022-10-30T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-10-30T00:00:00+00:00" /><meta property="og:site_name" content="April&#39;s blog" />
+
+
+
+
+
+  
+  
+  
+  
+  <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "articleSection": "zh-tw",
+        "name": "Hugo的anatole模板修改",
+        "headline": "Hugo的anatole模板修改",
+        "alternativeHeadline": "",
+        "description": "
+      在原本的模板上在側邊欄新增了「分類」和「標籤」區塊，以方便大家對於網站文章分類和標籤一目瞭然
+
+
+    ",
+        "inLanguage": "zh-tw",
+        "isFamilyFriendly": "true",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/aprilyyw.github.io\/ar\/zh-tw\/post\/anatole-theme-setting\/"
+        },
+        "author" : {
+            "@type": "Person",
+            "name": "April"
+        },
+        "creator" : {
+            "@type": "Person",
+            "name": "April"
+        },
+        "accountablePerson" : {
+            "@type": "Person",
+            "name": "April"
+        },
+        "copyrightHolder" : {
+            "@type": "Person",
+            "name": "April"
+        },
+        "copyrightYear" : "2022",
+        "dateCreated": "2022-10-30T00:00:00.00Z",
+        "datePublished": "2022-10-30T00:00:00.00Z",
+        "dateModified": "2022-10-30T00:00:00.00Z",
+        "publisher":{
+            "@type":"Organization",
+            "name": "April",
+            "url": "https://aprilyyw.github.io/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https:\/\/aprilyyw.github.io\/faviconfavicon-32x32.png",
+                "width":"32",
+                "height":"32"
+            }
+        },
+        "image": 
+      [
+        
+        "https://aprilyyw.github.io/images/site-feature-image.png"
+
+
+      
+      ]
+
+    ,
+        "url" : "https:\/\/aprilyyw.github.io\/ar\/zh-tw\/post\/anatole-theme-setting\/",
+        "wordCount" : "151",
+        "genre" : [ 
+      
+      "Other"
+
+    ],
+        "keywords" : [ 
+      
+      "Blog"
+
+    ]
+    }
+  </script>
+
+
+
+</head>
+<body
+    
+      class="body theme--light"
+
+    
+  >
+    <div class="wrapper">
+      <aside
+        
+          class="wrapper__sidebar"
+
+        
+      ><div
+  class="sidebar
+    animated fadeInDown
+
+  "
+>
+  <div class="sidebar__content" style="width:80%;margin-left:10%;">
+    <div class="sidebar__introduction">
+      <img
+        class="sidebar__introduction-profileimage"
+        src="/images/squirrel.png"
+        alt="profile picture"
+      />
+      
+        <div class="sidebar__introduction-title">
+          <a href="/ar">April&#39;s blog</a>
+        </div>
+
+      
+      <div class="sidebar__introduction-description">
+        <p>像松鼠一樣，一點一滴累積實力</p>
+      </div>
+    </div>
+    <ul class="sidebar__list">
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://github.com/aprilyyw"
+            target="_blank"
+            rel="noopener"
+            aria-label="GitHub"
+            title="GitHub"
+          >
+            <i class="fab fa-github fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+
+      
+    
+    <div class="sidebar__list" style="width:80%;margin-left:10%;">
+      <h4 class="widget-title">Category</h4>
+      <ul class="list-unstyled">
+        <li class="category"><a
+            href="/ar/categories/other/">Other</a>
+        </li>
+      </ul>
+    </div>
+    
+    <div class="widget" style="width:80%;margin-left:10%;">
+      <h4 class="widget-title">Tag</h4>
+      <ul class="list-inline">
+        <li class="category"><a class="tag"
+            href="/ar/tags/blog/">Blog</a></li>
+        <li class="category"><a class="tag"
+            href="/ar/tags/index/">Index</a></li>
+        <li class="category"><a class="tag"
+            href="/ar/tags/%d8%b9%d8%b1%d8%a8%d9%8a/">عربي</a></li>
+      </ul>
+    </div>
+    </ul>
+  </div><footer class="footer footer__sidebar">
+  <ul class="footer__list">
+    <li class="footer__item">
+      &copy;
+      
+        April
+        2022
+
+
+      
+    </li>
+    
+  </ul>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
+    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    crossorigin="anonymous"
+  ></script>
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-246322585-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+</div>
+</aside>
+      <main
+        
+          class="wrapper__main"
+
+        
+      >
+        <header class="header"><div
+  class="
+    animated fadeInDown
+
+  "
+>
+  <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+  </a>
+  <nav class="nav">
+    <ul class="nav__list" id="navMenu">
+      
+      
+        
+        
+          <li class="nav__list-item">
+            <a
+              
+              href="/ar/"
+              
+              title=""
+              >الرئيسية</a
+            >
+          </li>
+
+        
+
+
+      
+        
+        
+          <li class="nav__list-item">
+            <a
+              
+              href="/ar/post/"
+              
+              title=""
+              >المنشورات</a
+            >
+          </li>
+
+        
+
+
+      
+        
+        
+          <li class="nav__list-item">
+            <a
+              
+              href="/ar/about/"
+              
+              title=""
+              >حول</a
+            >
+          </li>
+
+        
+
+
+      
+        
+        
+          <li class="nav__list-item">
+            <a
+              
+              href="/ar/contact/"
+              
+              title=""
+              >للتواصل</a
+            >
+          </li>
+
+        
+
+
+      
+    </ul>
+    <ul class="nav__list nav__list--end">
+      
+      
+        <li class="nav__list-item">
+          <div class="themeswitch">
+            <a title="Switch Theme">
+              <i class="fas fa-adjust fa-fw" aria-hidden="false"></i>
+            </a>
+          </div>
+        </li>
+
+      
+    </ul>
+  </nav>
+</div>
+</header>
+  <div
+    class="post 
+      animated fadeInDown
+
+    "
+  >
+    
+    <div class="post__content">
+      <h1>Hugo的anatole模板修改</h1>
+      <blockquote>
+<p>原本的版型很美，但是無法一眼就看出部落格文章有哪些分類以及有哪些標籤，因此在側邊欄新增「分類」和「標籤」區塊讓大家更好找想要的文章唷。</p>
+</blockquote>
+<h2 id="分類category">分類Category</h2>
+<div
+  class="notice
+    notice--update
+
+  "
+>
+  <span
+    class="notice__title
+      notice__title--update
+
+    "
+  >تحديث</span><div class="notice__content">
+    原本的版型就有文章分類的功能，因此只要把分類項目顯示在頁面上就可以完成了。
+  </div>
+</div>
+
+<p>打開layouts資料夾內的partials資料夾，找出想放的頁面的html檔，我是想放在側邊欄，所以打開sidebar，將以下程式碼放至在想要的位置上，個人是放在這個版型的社群平台(socialIcons)區塊後面。</p>
+<p>修改的小重點：</p>
+<ol>
+<li>有class標籤的部分，請使用該樣板中已有的css樣式名稱，頁面整體會較為一致</li>
+<li>在style的部分調整想要的位置，最好是使用<code>%</code> 的絕對位置版型較不會跑掉</li>
+<li>在寫文章的標題時，記得寫上 <code>categories</code>分類的名稱，文章才會有分類唷</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl">    <span class="c">&lt;!-- category --&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;sidebar__list&#34;</span> <span class="na">style</span><span class="o">=</span><span class="s">&#34;width:80%;margin-left:10%;&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">      <span class="p">&lt;</span><span class="nt">h4</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;widget-title&#34;</span><span class="p">&gt;</span>Category<span class="p">&lt;/</span><span class="nt">h4</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">      {{- if isset .Site.Taxonomies &#34;categories&#34; }}
+</span></span><span class="line"><span class="cl">      {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
+</span></span><span class="line"><span class="cl">      <span class="p">&lt;</span><span class="nt">ul</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;list-unstyled&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">        {{- range $name, $items := .Site.Taxonomies.categories }}
+</span></span><span class="line"><span class="cl">        <span class="p">&lt;</span><span class="nt">li</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;category&#34;</span><span class="p">&gt;&lt;</span><span class="nt">a</span>
+</span></span><span class="line"><span class="cl">            <span class="na">href</span><span class="o">=</span><span class="s">&#34;{{ `categories/` | relLangURL }}{{ $name | urlize | lower }}/&#34;</span><span class="p">&gt;</span>{{ $name | title | humanize }}<span class="p">&lt;/</span><span class="nt">a</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">        <span class="p">&lt;/</span><span class="nt">li</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">        {{- end }}
+</span></span><span class="line"><span class="cl">      <span class="p">&lt;/</span><span class="nt">ul</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">      {{- end }}
+</span></span><span class="line"><span class="cl">      {{- end }}
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span></code></pre></div><h2 id="標籤tag">標籤Tag</h2>
+<div
+  class="notice
+    notice--update
+
+  "
+>
+  <span
+    class="notice__title
+      notice__title--update
+
+    "
+  >تحديث</span><div class="notice__content">
+    原本的版型就有在文章標上標籤的功能，因此只要把標籤項目顯示在頁面上就可以完成了。
+  </div>
+</div>
+
+<p>打開layouts資料夾內的partials資料夾，找出想放的頁面的html檔，我是想放在側邊欄，所以打開sidebar，將以下程式碼放至在想要的位置上，個人是放在剛剛新增的分類(category)區塊後面。</p>
+<p>修改的小重點：</p>
+<ol>
+<li>有class標籤的部分，請使用該樣板中已有的css樣式名稱，頁面整體會較為一致，所以也有用到category class的樣式</li>
+<li>在style的部分調整想要的位置，最好是使用<code>%</code> 的絕對位置版型較不會跑掉，這邊我也是設定跟category一樣的位置</li>
+<li>在寫文章的標題時，記得寫上 <code>tags</code>標籤的名稱，文章上才會有標籤唷</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl">    <span class="c">&lt;!-- Tags --&gt;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;widget&#34;</span> <span class="na">style</span><span class="o">=</span><span class="s">&#34;width:80%;margin-left:10%;&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">      <span class="p">&lt;</span><span class="nt">h4</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;widget-title&#34;</span><span class="p">&gt;</span>Tag<span class="p">&lt;/</span><span class="nt">h4</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">      {{- if isset .Site.Taxonomies &#34;tags&#34; }}
+</span></span><span class="line"><span class="cl">      {{- if not (eq (len .Site.Taxonomies.tags) 0) }}
+</span></span><span class="line"><span class="cl">      <span class="p">&lt;</span><span class="nt">ul</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;list-inline&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">        {{- range $name, $items := .Site.Taxonomies.tags }}
+</span></span><span class="line"><span class="cl">        <span class="p">&lt;</span><span class="nt">li</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;category&#34;</span><span class="p">&gt;&lt;</span><span class="nt">a</span> <span class="na">class</span><span class="o">=</span><span class="s">&#34;tag&#34;</span>
+</span></span><span class="line"><span class="cl">            <span class="na">href</span><span class="o">=</span><span class="s">&#34;{{ `tags/` | relLangURL }}{{ $name | urlize | lower }}/&#34;</span><span class="p">&gt;</span>{{ $name | humanize }}<span class="p">&lt;/</span><span class="nt">a</span><span class="p">&gt;&lt;/</span><span class="nt">li</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">        {{- end }}
+</span></span><span class="line"><span class="cl">      <span class="p">&lt;/</span><span class="nt">ul</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">      {{- end }}
+</span></span><span class="line"><span class="cl">      {{- end }}
+</span></span><span class="line"><span class="cl">    <span class="p">&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</span></span></code></pre></div><h2 id="小結">小結</h2>
+<p>感覺內容寫的有點偷懶，哈哈&hellip;</p>
+<p>Hugo的html語法滿特別的，不過也是滿快就熟悉的。</p>
+<p>平常在網路上在找資料的時候，文章的分類和標籤對我來說都是滿重要的功能，希望以上的內容有幫到大家的忙。</p>
+<hr>
+<h4 id="參考資料">參考資料：</h4>
+<ul>
+<li>liva-hugo樣式 <a href="https://github.com/gethugothemes/liva-hugo">https://github.com/gethugothemes/liva-hugo</a></li>
+</ul>
+
+
+
+<h3>المشاركات في هذه السلسلة</h3>
+<ul>
+  
+    <li><a href="/ar/zh-tw/post/anatole-theme-setting/">Hugo的anatole模板修改</a></li>
+
+  
+</ul>
+</div>
+    <div class="post__footer">
+      
+        <span><a class="category" href="/ar/categories/other/">Other</a></span>
+
+
+
+
+      
+
+      
+        <span><a class="tag" href="/ar/tags/blog/">Blog</a></span>
+
+
+
+
+      
+
+      
+
+    </div>
+    
+    <div>
+      <h3>
+        如果喜歡我的文章，歡迎登入Liker幫我拍手5次，給我一點鼓勵唷，讓我更有繼續寫作的動力:D
+      </h3>
+      <iframe class="LikeCoin" height="235" 
+	src="https://button.like.co/in/embed/aprilyang/button?referrer=https%3a%2f%2faprilyyw.github.io%2far%2fzh-tw%2fpost%2fanatole-theme-setting%2f" 
+	width="100%" frameborder=0>
+</iframe>
+    </div>
+    
+    <script src="https://utteranc.es/client.js"
+                label="comment"
+                repo="aprilyyw/aprilyyw.github.io"
+                issue-term="title"
+                theme="github-light"
+                crossorigin="anonymous"
+                async>
+    </script>
+    
+  </div>
+
+
+      </main>
+    </div><footer class="footer footer__base">
+  <ul class="footer__list">
+    <li class="footer__item">
+      &copy;
+      
+        April
+        2022
+
+
+      
+    </li>
+    
+  </ul>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
+    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    crossorigin="anonymous"
+  ></script>
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-246322585-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+</body>
+</html>
