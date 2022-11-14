@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>github-blog on April&#39;s blog</title>
-    <link>https://aprilyyw.github.io/series/github-blog/</link>
+    <link>https://aprilywy.github.io/series/github-blog/</link>
     <description>Recent content in github-blog on April&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aprilyyw.github.io/series/github-blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aprilywy.github.io/series/github-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo的anatole模板修改</title>
-      <link>https://aprilyyw.github.io/post/anatole-theme-setting/</link>
+      <link>https://aprilywy.github.io/post/anatole-theme-setting/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/post/anatole-theme-setting/</guid>
+      <guid>https://aprilywy.github.io/post/anatole-theme-setting/</guid>
       
         <description>在原本的模板上在側邊欄新增了「分類」和「標籤」區塊，以方便大家對於網站文章分類和標籤一目瞭然</description>
       

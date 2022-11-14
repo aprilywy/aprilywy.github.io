@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>April&#39;s blog</title>
-    <link>https://aprilyyw.github.io/ar/</link>
+    <link>https://aprilywy.github.io/ar/</link>
     <description>Recent content on April&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aprilyyw.github.io/ar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aprilywy.github.io/ar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo的anatole模板修改</title>
-      <link>https://aprilyyw.github.io/ar/zh-tw/post/anatole-theme-setting/</link>
+      <link>https://aprilywy.github.io/ar/zh-tw/post/anatole-theme-setting/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/ar/zh-tw/post/anatole-theme-setting/</guid>
+      <guid>https://aprilywy.github.io/ar/zh-tw/post/anatole-theme-setting/</guid>
       
         <description>在原本的模板上在側邊欄新增了「分類」和「標籤」區塊，以方便大家對於網站文章分類和標籤一目瞭然</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>GITHUB個人網站創立</title>
-      <link>https://aprilyyw.github.io/ar/zh-tw/post/github-blog-helloworld/</link>
+      <link>https://aprilywy.github.io/ar/zh-tw/post/github-blog-helloworld/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/ar/zh-tw/post/github-blog-helloworld/</guid>
+      <guid>https://aprilywy.github.io/ar/zh-tw/post/github-blog-helloworld/</guid>
       
         <description>第一篇文章慶祝blog建立完成&lt;3</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Awards</title>
-      <link>https://aprilyyw.github.io/ar/zh-tw/awards/</link>
+      <link>https://aprilywy.github.io/ar/zh-tw/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/ar/zh-tw/awards/</guid>
+      <guid>https://aprilywy.github.io/ar/zh-tw/awards/</guid>
       
         <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>Certifications</title>
-      <link>https://aprilyyw.github.io/ar/zh-tw/portfolio/certifications/</link>
+      <link>https://aprilywy.github.io/ar/zh-tw/portfolio/certifications/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/ar/zh-tw/portfolio/certifications/</guid>
+      <guid>https://aprilywy.github.io/ar/zh-tw/portfolio/certifications/</guid>
       
         <description>Hugo Certifications</description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title></title>
-      <link>https://aprilyyw.github.io/ar/arabic/archives/</link>
+      <link>https://aprilywy.github.io/ar/arabic/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/ar/arabic/archives/</guid>
+      <guid>https://aprilywy.github.io/ar/arabic/archives/</guid>
       
         <description></description>
       
@@ -64,10 +64,10 @@
     
     <item>
       <title></title>
-      <link>https://aprilyyw.github.io/ar/zh-tw/portfolio/archives/</link>
+      <link>https://aprilywy.github.io/ar/zh-tw/portfolio/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/ar/zh-tw/portfolio/archives/</guid>
+      <guid>https://aprilywy.github.io/ar/zh-tw/portfolio/archives/</guid>
       
         <description></description>
       
@@ -75,10 +75,10 @@
     
     <item>
       <title>Contact</title>
-      <link>https://aprilyyw.github.io/ar/zh-tw/contact/</link>
+      <link>https://aprilywy.github.io/ar/zh-tw/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/ar/zh-tw/contact/</guid>
+      <guid>https://aprilywy.github.io/ar/zh-tw/contact/</guid>
       
         <description>Contact Page</description>
       
@@ -86,10 +86,10 @@
     
     <item>
       <title>للتواصل</title>
-      <link>https://aprilyyw.github.io/ar/arabic/contact/</link>
+      <link>https://aprilywy.github.io/ar/arabic/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/ar/arabic/contact/</guid>
+      <guid>https://aprilywy.github.io/ar/arabic/contact/</guid>
       
         <description>Contact Page</description>
       
@@ -97,10 +97,10 @@
     
     <item>
       <title>نموذج عربي</title>
-      <link>https://aprilyyw.github.io/ar/arabic/post/arabic_example/</link>
+      <link>https://aprilywy.github.io/ar/arabic/post/arabic_example/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/ar/arabic/post/arabic_example/</guid>
+      <guid>https://aprilywy.github.io/ar/arabic/post/arabic_example/</guid>
       
         <description>نص عربي سريع</description>
       
@@ -108,10 +108,10 @@
     
     <item>
       <title>Certifications</title>
-      <link>https://aprilyyw.github.io/ar/zh-tw/portfolio/about/</link>
+      <link>https://aprilywy.github.io/ar/zh-tw/portfolio/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/ar/zh-tw/portfolio/about/</guid>
+      <guid>https://aprilywy.github.io/ar/zh-tw/portfolio/about/</guid>
       
         <description>Hugo, the world&#39;s fastest framework for building websites</description>
       
@@ -119,10 +119,10 @@
     
     <item>
       <title>حول</title>
-      <link>https://aprilyyw.github.io/ar/arabic/about/</link>
+      <link>https://aprilywy.github.io/ar/arabic/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/ar/arabic/about/</guid>
+      <guid>https://aprilywy.github.io/ar/arabic/about/</guid>
       
         <description>Hugo, the world&#39;s fastest framework for building websites</description>
       
@@ -130,10 +130,10 @@
     
     <item>
       <title></title>
-      <link>https://aprilyyw.github.io/ar/zh-tw/imprint/</link>
+      <link>https://aprilywy.github.io/ar/zh-tw/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilyyw.github.io/ar/zh-tw/imprint/</guid>
+      <guid>https://aprilywy.github.io/ar/zh-tw/imprint/</guid>
       
         <description>Legal Disclosure Information in accordance with the applicable law
 Jane Doe</description>
