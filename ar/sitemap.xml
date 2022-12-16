@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aprilywy.github.io/ar/zh-tw/</loc>
-    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aprilywy.github.io/ar/</loc>
-    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -19,7 +19,7 @@
                 />
   </url><url>
     <loc>https://aprilywy.github.io/ar/tags/blog/</loc>
-    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -32,7 +32,7 @@
                 />
   </url><url>
     <loc>https://aprilywy.github.io/ar/categories/</loc>
-    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>https://aprilywy.github.io/ar/series/github-blog/</loc>
-    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -57,11 +57,8 @@
                 href="https://aprilywy.github.io/ar/series/github-blog/"
                 />
   </url><url>
-    <loc>https://aprilywy.github.io/ar/zh-tw/post/anatole-theme-setting/</loc>
-    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://aprilywy.github.io/ar/categories/other/</loc>
-    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -74,7 +71,7 @@
                 />
   </url><url>
     <loc>https://aprilywy.github.io/ar/series/</loc>
-    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -87,7 +84,7 @@
                 />
   </url><url>
     <loc>https://aprilywy.github.io/ar/tags/</loc>
-    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -98,6 +95,15 @@
                 hreflang="ar"
                 href="https://aprilywy.github.io/ar/tags/"
                 />
+  </url><url>
+    <loc>https://aprilywy.github.io/ar/zh-tw/post/likecoin-setting/</loc>
+    <lastmod>2022-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aprilywy.github.io/ar/zh-tw/post/utteranc-setting/</loc>
+    <lastmod>2022-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aprilywy.github.io/ar/zh-tw/post/anatole-theme-setting/</loc>
+    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aprilywy.github.io/ar/zh-tw/post/github-blog-helloworld/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
