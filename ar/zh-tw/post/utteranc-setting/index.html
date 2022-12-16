@@ -3,12 +3,14 @@
   dir="ltr"
   lang="ar"
   data-theme=""
-  class="html"
+  
+  class="html theme--light"
+  
 ><head>
   <title>
     
       
-        在Hugo的anatole模板增加Utterance留言板 |
+        在Hugo的anatole模板增加utterance留言板 |
 
       April
 
@@ -19,7 +21,7 @@
   <meta name="author" content="April" />
   <meta
     name="description"
-    content="在原本的模板上在側邊欄新增了「分類」和「標籤」區塊，而暫內文中新增了「utteranc留言板」和「likecoin拍手功能」"
+    content="在原本的模板上在側邊欄新增了「分類」和「標籤」區塊，並在內文中新增了「utteranc留言板」，這篇和大家介紹新增「utteranc留言板」於內文中"
   />
   
   
@@ -114,14 +116,14 @@
   <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://aprilywy.github.io/images/site-feature-image.png"/>
 
-<meta name="twitter:title" content="在Hugo的anatole模板增加Utterance留言板"/>
-<meta name="twitter:description" content="在原本的模板上在側邊欄新增了「分類」和「標籤」區塊，而暫內文中新增了「utteranc留言板」和「likecoin拍手功能」"/>
+<meta name="twitter:title" content="在Hugo的anatole模板增加utterance留言板"/>
+<meta name="twitter:description" content="在原本的模板上在側邊欄新增了「分類」和「標籤」區塊，並在內文中新增了「utteranc留言板」，這篇和大家介紹新增「utteranc留言板」於內文中"/>
 
 
 
   
-  <meta property="og:title" content="在Hugo的anatole模板增加Utterance留言板" />
-<meta property="og:description" content="在原本的模板上在側邊欄新增了「分類」和「標籤」區塊，而暫內文中新增了「utteranc留言板」和「likecoin拍手功能」" />
+  <meta property="og:title" content="在Hugo的anatole模板增加utterance留言板" />
+<meta property="og:description" content="在原本的模板上在側邊欄新增了「分類」和「標籤」區塊，並在內文中新增了「utteranc留言板」，這篇和大家介紹新增「utteranc留言板」於內文中" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://aprilywy.github.io/ar/zh-tw/post/utteranc-setting/" /><meta property="og:image" content="https://aprilywy.github.io/images/site-feature-image.png"/><meta property="article:section" content="zh-tw" />
 <meta property="article:published_time" content="2022-11-06T00:00:00+00:00" />
@@ -140,11 +142,11 @@
         "@context": "http://schema.org",
         "@type": "BlogPosting",
         "articleSection": "zh-tw",
-        "name": "在Hugo的anatole模板增加Utterance留言板",
-        "headline": "在Hugo的anatole模板增加Utterance留言板",
+        "name": "在Hugo的anatole模板增加utterance留言板",
+        "headline": "在Hugo的anatole模板增加utterance留言板",
         "alternativeHeadline": "",
         "description": "
-      在原本的模板上在側邊欄新增了「分類」和「標籤」區塊，而暫內文中新增了「utteranc留言板」和「likecoin拍手功能」
+      在原本的模板上在側邊欄新增了「分類」和「標籤」區塊，並在內文中新增了「utteranc留言板」，這篇和大家介紹新增「utteranc留言板」於內文中
 
 
     ",
@@ -156,19 +158,19 @@
         },
         "author" : {
             "@type": "Person",
-            "name": "April"
+            "name": "Hugo Authors"
         },
         "creator" : {
             "@type": "Person",
-            "name": "April"
+            "name": "Hugo Authors"
         },
         "accountablePerson" : {
             "@type": "Person",
-            "name": "April"
+            "name": "Hugo Authors"
         },
         "copyrightHolder" : {
             "@type": "Person",
-            "name": "April"
+            "name": "Hugo Authors"
         },
         "copyrightYear" : "2022",
         "dateCreated": "2022-11-06T00:00:00.00Z",
@@ -176,7 +178,7 @@
         "dateModified": "2022-11-06T00:00:00.00Z",
         "publisher":{
             "@type":"Organization",
-            "name": "April",
+            "name": "Hugo Authors",
             "url": "https://aprilywy.github.io/",
             "logo": {
                 "@type": "ImageObject",
@@ -196,7 +198,7 @@
 
     ,
         "url" : "https:\/\/aprilywy.github.io\/ar\/zh-tw\/post\/utteranc-setting\/",
-        "wordCount" : "7",
+        "wordCount" : "83",
         "genre" : [ 
       
       "Other"
@@ -213,17 +215,11 @@
 
 
 </head>
-<body
-    
-      class="body theme--dark"
-
-    
-  >
+<body class="body">
     <div class="wrapper">
       <aside
         
           class="wrapper__sidebar"
-
         
       ><div
   class="sidebar
@@ -334,7 +330,6 @@ if (!doNotTrack) {
       <main
         
           class="wrapper__main"
-
         
       >
         <header class="header"><div
@@ -441,20 +436,68 @@ if (!doNotTrack) {
   >
     
     <div class="post__content">
-      <h1>在Hugo的anatole模板增加Utterance留言板</h1>
+      <h1>在Hugo的anatole模板增加utterance留言板</h1>
       <blockquote>
-<p>原本的版型很美，但是缺少了一些互動的功能讓人有點空虛，因此新增了「utteranc留言板」和「likecoin拍手功能」，這篇先向大家介紹「utteranc留言板」。</p>
+<p>原本的版型很美，但是缺少了一些互動的功能讓人有點空虛，因此新增了「utteranc留言板」，使來部落格的網友可以透過留言板和作者互動，這篇向大家介紹「utteranc留言板」。</p>
 </blockquote>
-<h2 id="utterance留言板">Utterance留言板</h2>
+<h2 id="為什麼選擇utterance留言板">為什麼選擇utterance留言板</h2>
+<p>這個版型原本就有支援加入各種留言功能，因此要在頁面掛進utterance留言板其實不算太難，至於會選擇utterance是因為這個部落格基本上就是使用GitHub建制的，因此使用連接GitHub Issue的小工具在看留言時相對便於管理，而且無廣告及載入快這二點也很優秀，小缺點是要登入後才能留言，不過這樣也可以減少廣告留言，所以也不完全是壞事就是了。</p>
+<p>在選擇留言板種類的時候有參觀了一下別人的部落格，看到一些使用disqus留言板，研究了一下設置只需要申請帳號後掛入一行代碼，基本上就設置完成，但是在使用上就是一定要掛個廣告在留言板附近，跟utterance留言板一樣也是要登入後才能留言，然後不知道留言板的資料儲存在哪裡，如果珍貴的留言消失也找不回來（哭），因此就不考慮disqus留言板了。</p>
+<h2 id="utterance留言板設置">utterance留言板設置</h2>
+<p>在設置的時候參考了網路上的資料，基本步驟如下：</p>
+<ol>
+<li>
+<p>要先在自己的GitHub帳號內加入<a href="https://github.com/apps/utterances">utterance的APP</a></p>
+</li>
+<li>
+<p>參考<a href="https://utteranc.es/">utterances 🔮</a>表單頁面上的說明並進行以下的設定</p>
+<ol>
+<li>將要掛utterance留言板的網頁專案設置成公開專案，這樣留言才會在網頁上顯示</li>
+<li>確認<a href="https://github.com/apps/utterances">utterance的APP</a>是安裝在同一個GitHub帳號</li>
+<li>在<code>repo</code>的格子內填上<code>帳號/專案名稱</code></li>
+<li><code>Blog Post ↔️ Issue Mapping</code>選擇建立留言的時候在Issue的命名原則</li>
+<li><code>Issue Label</code>填寫要加上什麼標籤，也可以空白</li>
+<li><code>Theme</code>選擇留言板要套用的主題顏色，在選擇的時候網頁背景顏色也會跟著改變，非常酷！</li>
+</ol>
+</li>
+<li>
+<p>第二步驟填完後會生成<code>Enable Utterances</code>的內容，將這一段貼到您希望顯示的部分就完成基本的配置，我是配置在<code>single.html</code>的底部，讓留言板顯示在每個頁面的最底下</p>
+</li>
+<li>
+<p>這個主題的作者原本就有配置utterance留言板的配置，但是有點複雜，所以我將原本的<code>single.html</code>配置的先關掉，並且換上樣板</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="c">&lt;!-- comments --&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">script</span> <span class="na">src</span><span class="o">=</span><span class="s">&#34;https://utteranc.es/client.js&#34;</span>
+</span></span><span class="line"><span class="cl">            <span class="na">label</span><span class="o">=</span><span class="s">&#34;comment&#34;</span>
+</span></span><span class="line"><span class="cl">            <span class="na">repo</span><span class="o">=</span><span class="s">&#34;{{ .Site.Params.utteranc.repo }}&#34;</span>
+</span></span><span class="line"><span class="cl">            <span class="na">issue-term</span><span class="o">=</span><span class="s">&#34;{{ .Site.Params.utteranc.issueTerm }}&#34;</span>
+</span></span><span class="line"><span class="cl">            <span class="na">theme</span><span class="o">=</span><span class="s">&#34;{{ .Site.Params.utteranc.theme }}&#34;</span>
+</span></span><span class="line"><span class="cl">            <span class="na">crossorigin</span><span class="o">=</span><span class="s">&#34;anonymous&#34;</span>
+</span></span><span class="line"><span class="cl">            <span class="na">async</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+</span></span></code></pre></div></li>
+<li>
+<p>在<code>config.toml</code>加入以上配置所需要的資料，這裡放置了幾乎所有的網站基本設定，這樣以後再修改網站基本資料時，就可以都在<code>config.toml</code>的頁面修改，所以比較建議這樣的配置，以下有包含我所選擇的設定，請再依照自己的專案進行修改</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-toml" data-lang="toml"><span class="line"><span class="cl"><span class="p">[</span><span class="nx">params</span><span class="p">.</span><span class="nx">utteranc</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">enable</span> <span class="p">=</span> <span class="kc">true</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">repo</span> <span class="p">=</span> <span class="s2">&#34;您的GitHub帳號 / 您要放置留言的GitHub專案名稱&#34;</span> <span class="c">##請依照您實際要設置的資料修改</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">issueTerm</span> <span class="p">=</span> <span class="s2">&#34;title&#34;</span> <span class="c">##Issue的命名原則我是設定和文章名稱相同</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">label</span><span class="p">=</span><span class="s2">&#34;✨💬✨&#34;</span> <span class="c">##我使用了浮誇的標籤，這邊可以空白</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">theme</span> <span class="p">=</span> <span class="s2">&#34;gruvbox-dark&#34;</span> <span class="c">##留言板的主題目前我選擇gruvbox-dark風格</span>
+</span></span></code></pre></div></li>
+<li>
+<p>請執行<code>Hugo server</code>看頁面中的utterance留言板有沒有出現，如果沒有出現的話再檢查一下配置是否正確，也可以參考hugo官網有關<a href="https://gohugo.io/content-management/comments/">comment配置的文件</a>，查看您的主題若沒設置時該如何修改，也可以在選擇主題時查看說明，選擇有預設可以增加utterances留言功能的主題</p>
+</li>
+</ol>
+<h2 id="小結">小結</h2>
+<p>在一開始設定的時候，因為作者寫的太好了，所以我一開始不會設置還去問老師該怎麼修改，之後選擇先忽略原本作者寫的很漂亮的程式碼，而使用老師所提供的程式碼就顯示出來了，其實老師提供的和我參考資料的內容很像，只能說功力還不夠，學習的路上還有很長的一段要走，不過可以解決真的好開心，果然在自己的專案裡解決問題真的很能夠增加對於城市的興趣，也能夠增加自己的自信，再來要想還有什麼有趣的專案來實做了！</p>
 <hr>
 <h4 id="參考資料">參考資料：</h4>
 <ul>
-<li>
-<p>liva-hugo樣式 <a href="https://github.com/gethugothemes/liva-hugo">https://github.com/gethugothemes/liva-hugo</a></p>
-</li>
-<li>
-<p>给hugo博客添加评论功能 <a href="https://liangyuanpeng.com/post/hugo-comment/">https://liangyuanpeng.com/post/hugo-comment/</a></p>
-</li>
+<li>liva-hugo樣式 <a href="https://github.com/gethugothemes/liva-hugo">https://github.com/gethugothemes/liva-hugo</a></li>
+<li>给hugo博客添加评论功能 <a href="https://liangyuanpeng.com/post/hugo-comment/">https://liangyuanpeng.com/post/hugo-comment/</a></li>
+<li>GitHub App utterances <a href="https://github.com/apps/utterances">https://github.com/apps/utterances</a></li>
+<li>utterances 🔮 <a href="https://utteranc.es/">https://utteranc.es/</a></li>
+<li>HUGO / Comments <a href="https://gohugo.io/content-management/comments/">https://gohugo.io/content-management/comments/</a></li>
 </ul>
 
 
@@ -462,10 +505,10 @@ if (!doNotTrack) {
 <h3>المشاركات في هذه السلسلة</h3>
 <ul>
   
-    <li><a href="/ar/zh-tw/post/likecoin-setting/">在Hugo的anatole模板增加Utterance留言板</a></li>
+    <li><a href="/ar/zh-tw/post/likecoin-setting/">在Hugo的anatole模板增加likecoin拍手功能</a></li>
 
   
-    <li><a href="/ar/zh-tw/post/utteranc-setting/">在Hugo的anatole模板增加Utterance留言板</a></li>
+    <li><a href="/ar/zh-tw/post/utteranc-setting/">在Hugo的anatole模板增加utterance留言板</a></li>
 
   
     <li><a href="/ar/zh-tw/post/anatole-theme-setting/">Hugo的anatole模板修改</a></li>
@@ -508,7 +551,7 @@ if (!doNotTrack) {
                 label="comment"
                 repo="aprilywy/aprilywy.github.io"
                 issue-term="title"
-                theme="github-light"
+                theme="gruvbox-dark"
                 crossorigin="anonymous"
                 async>
     </script>
