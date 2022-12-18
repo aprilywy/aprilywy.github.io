@@ -70,6 +70,9 @@
                 href="https://aprilywy.github.io/ar/categories/other/"
                 />
   </url><url>
+    <loc>https://aprilywy.github.io/ar/zh-tw/post/</loc>
+    <lastmod>2022-11-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aprilywy.github.io/ar/series/</loc>
     <lastmod>2022-11-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -111,10 +114,7 @@
     <loc>https://aprilywy.github.io/ar/zh-tw/awards/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aprilywy.github.io/ar/zh-tw/portfolio/certifications/</loc>
-    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aprilywy.github.io/ar/zh-tw/portfolio/</loc>
+    <loc>https://aprilywy.github.io/ar/zh-tw/certifications/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aprilywy.github.io/ar/arabic/</loc>
@@ -123,7 +123,7 @@
     <loc>https://aprilywy.github.io/ar/arabic/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aprilywy.github.io/ar/zh-tw/portfolio/archives/</loc>
+    <loc>https://aprilywy.github.io/ar/zh-tw/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aprilywy.github.io/ar/zh-tw/contact/</loc>
@@ -141,7 +141,7 @@
     <loc>https://aprilywy.github.io/ar/arabic/post/arabic_example/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aprilywy.github.io/ar/zh-tw/portfolio/about/</loc>
+    <loc>https://aprilywy.github.io/ar/zh-tw/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aprilywy.github.io/ar/arabic/about/</loc>
@@ -150,5 +150,17 @@
     <loc>https://aprilywy.github.io/ar/zh-tw/imprint/</loc>
   </url><url>
     <loc>https://aprilywy.github.io/ar/tags/index/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://aprilywy.github.io/tags/index/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://aprilywy.github.io/ar/tags/index/"
+                />
+  </url><url>
+    <loc>https://aprilywy.github.io/ar/zh-tw/portfolio/</loc>
   </url>
 </urlset>

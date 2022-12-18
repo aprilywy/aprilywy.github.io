@@ -64,10 +64,10 @@
     
     <item>
       <title>Certifications</title>
-      <link>https://aprilywy.github.io/ar/zh-tw/portfolio/certifications/</link>
+      <link>https://aprilywy.github.io/ar/zh-tw/certifications/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilywy.github.io/ar/zh-tw/portfolio/certifications/</guid>
+      <guid>https://aprilywy.github.io/ar/zh-tw/certifications/</guid>
       
         <description>Hugo Certifications</description>
       
@@ -86,10 +86,10 @@
     
     <item>
       <title></title>
-      <link>https://aprilywy.github.io/ar/zh-tw/portfolio/archives/</link>
+      <link>https://aprilywy.github.io/ar/zh-tw/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilywy.github.io/ar/zh-tw/portfolio/archives/</guid>
+      <guid>https://aprilywy.github.io/ar/zh-tw/archives/</guid>
       
         <description></description>
       
@@ -129,11 +129,11 @@
     </item>
     
     <item>
-      <title>Certifications</title>
-      <link>https://aprilywy.github.io/ar/zh-tw/portfolio/about/</link>
+      <title>About</title>
+      <link>https://aprilywy.github.io/ar/zh-tw/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://aprilywy.github.io/ar/zh-tw/portfolio/about/</guid>
+      <guid>https://aprilywy.github.io/ar/zh-tw/about/</guid>
       
         <description>Hugo, the world&#39;s fastest framework for building websites</description>
       
@@ -157,8 +157,7 @@
       
       <guid>https://aprilywy.github.io/ar/zh-tw/imprint/</guid>
       
-        <description>Legal Disclosure Information in accordance with the applicable law
-Jane Doe</description>
+        <description>Legal Disclosure Information in accordance with the applicable law</description>
       
     </item>
     
