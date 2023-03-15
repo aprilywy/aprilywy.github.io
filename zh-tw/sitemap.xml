@@ -126,18 +126,6 @@
     <loc>https://aprilywy.github.io/imprint/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://aprilywy.github.io/tags/index/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://aprilywy.github.io/ar/tags/index/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://aprilywy.github.io/tags/index/"
-                />
-  </url><url>
     <loc>https://aprilywy.github.io/portfolio/</loc>
   </url>
 </urlset>
